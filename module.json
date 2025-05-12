@@ -1,0 +1,18 @@
+{
+    "id": "hotkeys",
+    "name": "Hotkeys",
+    "description": "Adds ability to view available hotkeys",
+    "keywords": ["keyboard", "shortcuts", "hotkeys", "richtext", "editor"],
+    "version": "1.0.0",
+    "humhub": {
+        "minVersion": "1.16"
+    },
+    "screenshots": ["resources/screenshot.png"],
+    "authors": [
+        {
+            "name": "Green Meteor",
+            "email": "hello@greenmeteor.net",
+            "homepage": "https://greenmeteor.net"
+        }
+    ]
+}
