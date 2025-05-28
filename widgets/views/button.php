@@ -12,7 +12,6 @@ use humhub\libs\Helpers;
         '#',
         [
             'class' => 'hotkeys-modal-button',
-            'title' => Yii::t('HotkeysModule.base', 'Show keyboard shortcuts'),
             'data-action-click' => 'hotkeys.showShortcutsModal',
         ]
     ); ?>
